@@ -18,4 +18,4 @@ This project was made for a client that wanted a betting website.<br>
   <li>Admin panel(only for admins)</li>
 </ul>
 <br>
-Chatroom is implemented with AJAX and it has live refresh.
+Chatroom is implemented with AJAX and it has live refresh.<br>
