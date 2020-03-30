@@ -34,23 +34,30 @@ Bellow this text, there are some pictures of a website.<br>
 *Home page*
 ![HustleSports_Portal](https://user-images.githubusercontent.com/35956934/77961079-99154880-72d9-11ea-89d5-867f0f868cfb.png)
 <br>
+<br>
 *Articles*
 ![HustleSports_Articles](https://user-images.githubusercontent.com/35956934/77961085-9c103900-72d9-11ea-9db7-1df679c9d89b.jpg)
+<br>
 <br>
 *Specific article*
 ![HustleSports_SpecificArticle](https://user-images.githubusercontent.com/35956934/77961096-a03c5680-72d9-11ea-8342-37515feae330.jpg)
 <br>
+<br>
 *About page*
 ![HustleSports_About](https://user-images.githubusercontent.com/35956934/77961099-a2061a00-72d9-11ea-817b-3cec24b6016d.jpg)
+<br>
 <br>
 *Live chat*
 ![HustleSprots_Chat](https://user-images.githubusercontent.com/35956934/77961109-a4687400-72d9-11ea-8ee2-eb6346a0516c.png)
 <br>
+<br>
 *Admin panel 1*
 ![Admin_Panel_Manage_Post_1](https://user-images.githubusercontent.com/35956934/77961133-ab8f8200-72d9-11ea-96d4-9ea26007f591.png)
 <br>
+<br>
 *Admin panel 2*
 ![Admin_Panel_Manage_Post_2](https://user-images.githubusercontent.com/35956934/77961143-ae8a7280-72d9-11ea-9f4e-d84158f49947.png)
+<br>
 <br>
 *Admin panel 3*
 ![Admin_Panel_Add_Post](https://user-images.githubusercontent.com/35956934/77961150-b0543600-72d9-11ea-8e28-663f034f8937.png)
