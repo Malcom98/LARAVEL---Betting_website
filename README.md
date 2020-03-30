@@ -20,13 +20,16 @@ This project was made for a client that wanted a betting website. It is consited
 </ul>
 <br>
 
+#Comments
 This was a 2 part project and I received comments that will be shown on pictures below:
 *first part of the project*
-![Comment1](https://user-images.githubusercontent.com/35956934/77961026-83078800-72d9-11ea-8e54-764aea9fc90a.png)
+![Comment1](https://user-images.githubusercontent.com/35956934/77961026-83078800-72d9-11ea-8e54-764aea9fc90a.png)<br>
 *second part of the project*
 ![Comment2](https://user-images.githubusercontent.com/35956934/77961042-8995ff80-72d9-11ea-9d59-1142a415b3aa.png)
+<br>
+<br>
 
-
+#Pictures
 Bellow this text, there are some pictures of a website.<br>
 *Home page*
 ![HustleSports_Portal](https://user-images.githubusercontent.com/35956934/77961079-99154880-72d9-11ea-89d5-867f0f868cfb.png)
