@@ -1,7 +1,7 @@
 <center><h1>Betting website</h1></center>
 <hr>
 This was a *freelacing project*.
-Code for this website is private due to client protection.
+Code for this website is private due to client protection. 
 <hr>
 This project was made for a client that wanted a betting website. It is consited of 7 pages: Home page, Articles page, Picks, Chatroom, Login, Signup and also an Admin panel. Website idea was to make bets between people and to also have a newspapers functionality. It contains a lot of features like live web scrapping from other websites, admin functionality, live chatroom, responsivity for all devices etc.<br>
 <b>Front end technologies:</b> HTML, CSS, Bootstrap, jQuery, AJAX JavaScript<br>
