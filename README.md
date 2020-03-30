@@ -1,4 +1,4 @@
-<center><h1>Betting website</h1></center>
+<center><h1>Betting Website</h1></center>
 <hr>
 This was a *freelacing project*.
 Code for this website is private due to client protection. 
